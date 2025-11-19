@@ -6,7 +6,7 @@ variable name {
 
 variable "instance_type" {
     type = string
-    default =
+    default = "t3.micro"
 }
 
 variable "tags" {
